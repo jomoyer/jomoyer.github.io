@@ -51,3 +51,17 @@ table {
 CSS STYLING BELOW
 */
 
+body {
+	background-color:#EDE8DF;
+}
+
+#logoContainer {
+
+}
+
+img.alignCenter {
+	display:block;
+	margin:150px auto auto auto;
+
+	text-align: center;
+}
